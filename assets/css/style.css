@@ -344,31 +344,31 @@ iframe {
 .grid4 {
   grid-column: span 4;
   grid-row: span 3;
-  background-image: url('/innohub-master/images/4.jpg');
+  background-image: url('/images/4.jpg');
 }
 
 .grid5 {
   grid-column: span 8;
   grid-row: span 2;
-  background-image: url('/innohub-master/images/1.jpg');
+  background-image: url('/images/1.jpg');
 }
 
 .grid6 {
   grid-column: span 5;
   grid-row: span 1;
-  background-image: url('/innohub-master/images/5.jpg');
+  background-image: url('/images/5.jpg');
 }
 
 .grid7 {
   grid-column: span 3;
   grid-row: span 4;
-  background-image: url('/innohub-master/images/7.jpg');
+  background-image: url('/images/7.jpg');
 }
 
 .grid8 {
   grid-column: span 9;
   grid-row: span 3;
-  background-image: url('/innohub-master/images/8.jpg');
+  background-image: url('/images/8.jpg');
 }
 
 /*-----------------------------------*\
